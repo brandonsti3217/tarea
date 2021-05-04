@@ -21,7 +21,7 @@ public class App {
             System.out.print("ADSI2020");
         } else if(letra == char5){
             System.out.print( letra1);
-            System.out.print( letra2);
+            System.out.print( letra2);System.out.preint(nombre:)
         }
 
     }
